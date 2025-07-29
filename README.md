@@ -8,12 +8,8 @@ Notely a full-stack note-taking application built with Next.js, TypeScript, and 
 
 Explore the fully deployed Notely app on Vercel:
 
-👉 [Visit Notely Live on Vercel](https://notely-inky.vercel.app/auth/signin)
+👉 [Visit Notely Live on Vercel](https://notely-rose.vercel.app/auth/signup)
 
-> Note: For testing purposes, use the credentials below:
->
-> - **Email:** tony@gmail.com  
-> - **Password:** Jarvis12 
 
 
 ## Features
